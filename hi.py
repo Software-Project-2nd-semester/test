@@ -7,3 +7,4 @@ def hyunmo_soft_project_del_uh():
 
 def pet():
     print("펫")
+
