@@ -15,4 +15,9 @@ def createError():
 def solveError():
     print("해결")
 
+<<<<<<< HEAD
     dfdfdff
+=======
+def bug():
+    print("hi")
+>>>>>>> 1d8dabf33011f11c114f95db3ebd6d4878f0e8ad
