@@ -12,6 +12,7 @@ def pet():
 def createError():
     print("충돌에러 만들기")
 
+
 def solveError():
     print("해결")
 
@@ -21,3 +22,4 @@ def bug():
 
 def branchWork():
     print("working")
+    print("hi")
