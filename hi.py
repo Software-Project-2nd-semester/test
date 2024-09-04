@@ -13,35 +13,13 @@ def createError():
     print("충돌에러 만들기")
 
 
-
-
-
-
-
-
-
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-
-
-
-
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> 50a26b1907e9cde589cf9f49674c3de088b405e9
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 def solveError():
     print("해결")
 
 
 def bug():
+    print("hi")
+
+def branchWork():
+    print("working")
     print("hi")
