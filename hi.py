@@ -20,6 +20,13 @@ def createError():
 
 
 
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> 50a26b1907e9cde589cf9f49674c3de088b405e9
 def solveError():
     print("해결")
 
