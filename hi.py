@@ -14,3 +14,6 @@ def createError():
 
 def solveError():
     print("해결")
+
+def bug():
+    print("hi")
