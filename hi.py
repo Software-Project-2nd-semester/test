@@ -33,3 +33,12 @@ print("수정")
 print("연습중")
 
 print("깃허브")
+
+print("아무거나")
+
+
+print("브뤤취")
+
+print("이슈 생성하기")
+
+print("ㅅㅅ")
