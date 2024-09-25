@@ -33,3 +33,5 @@ print("수정")
 print("연습중")
 
 print("깃허브")
+
+print("배동성시치")
