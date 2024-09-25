@@ -32,4 +32,4 @@ print("수정")
 
 print("연습중")
 
-print("ㅅㅅ")
+print("깃허브")
