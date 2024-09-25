@@ -24,5 +24,9 @@ def branchWork():
     print("working")
     print("hi")
 
+<<<<<<< HEAD
 
 print("정일ㅎㅇㅎㅇ")
+=======
+print("강현모 소프 팀원기원 99999일차")
+>>>>>>> origin/main
