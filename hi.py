@@ -31,3 +31,5 @@ print("gogogogogogogogo")
 print("수정")
 
 print("연습중")
+
+print("ㅅㅅ")
