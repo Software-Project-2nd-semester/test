@@ -34,7 +34,11 @@ print("연습중")
 
 print("깃허브")
 
-print("배동성시치")
+print("아무거나")
 
-print("ㅁㄴㅇㅁㄴㅇㅁㄴ")
-print("망ㅁㄴㅇㅁㄴㅇ")
+
+print("브뤤취")
+
+print("이슈 생성하기")
+
+print("ㅅㅅ")
