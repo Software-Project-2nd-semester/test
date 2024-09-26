@@ -42,6 +42,3 @@ print("브뤤취")
 print("이슈 생성하기")
 
 print("ㅅㅅ")
-
-print("crud")
-
