@@ -45,11 +45,3 @@ print("ㅅㅅ")
 
 print("crud")
 
-
-
-
-
-
-
-
-print("test_crud_merge")
